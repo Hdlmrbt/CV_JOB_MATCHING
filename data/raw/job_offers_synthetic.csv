@@ -1,0 +1,131 @@
+﻿offer_id,profile,position,required_skills,preferred_skills,degree,experience_required,missions,technical_environment,description
+OFF001,Data Analyst,Data Analyst Junior – Analyse et reporting,"[""Python"", ""SQL"", ""Pandas"", ""Power BI"", ""Excel""]","['Tableau', 'Matplotlib', 'Statistiques']","Bac+5 en Data Science, Informatique ou Statistiques",0,"['Collecter et préparer des données provenant de différentes sources', ""Analyser les données afin d'identifier des tendances et des indicateurs clés"", 'Concevoir des tableaux de bord interactifs pour le suivi des performances', 'Présenter les résultats aux équipes métiers']","['Python', 'SQL', 'Power BI', 'Excel']","Data Analyst Junior – Analyse et reporting
+
+Nous recherchons un profil spécialisé en Data Analyst pour rejoindre notre équipe.
+
+Missions principales :
+- Collecter et préparer des données provenant de différentes sources
+- Analyser les données afin d'identifier des tendances et des indicateurs clés
+- Concevoir des tableaux de bord interactifs pour le suivi des performances
+- Présenter les résultats aux équipes métiers
+
+Compétences requises : Python, SQL, Pandas, Power BI, Excel
+Compétences appréciées : Tableau, Matplotlib, Statistiques
+Environnement technique : Python, SQL, Power BI, Excel"
+OFF002,Data Analyst,Data Analyst – Analyse décisionnelle,"[""SQL"", ""Python"", ""Excel"", ""Power BI"", ""Statistiques""]","['Tableau', 'DAX', 'ETL']","Bac+5 en Data, Informatique ou Économie quantitative",1,"['Analyser les indicateurs commerciaux et financiers', 'Mettre en place des rapports automatisés pour les décideurs', 'Contrôler la qualité et la cohérence des données', 'Collaborer avec les équipes métiers pour comprendre leurs besoins']","['SQL', 'Power BI', 'DAX', 'Python', 'Excel']","Data Analyst – Analyse décisionnelle
+
+Nous recherchons un profil spécialisé en Data Analyst pour rejoindre notre équipe.
+
+Missions principales :
+- Analyser les indicateurs commerciaux et financiers
+- Mettre en place des rapports automatisés pour les décideurs
+- Contrôler la qualité et la cohérence des données
+- Collaborer avec les équipes métiers pour comprendre leurs besoins
+
+Compétences requises : SQL, Python, Excel, Power BI, Statistiques
+Compétences appréciées : Tableau, DAX, ETL
+Environnement technique : SQL, Power BI, DAX, Python, Excel"
+OFF003,Data Scientist,Data Scientist Junior – Modélisation prédictive,"[""Python"", ""Scikit-learn"", ""Pandas"", ""Machine Learning"", ""NumPy""]","['TensorFlow', 'Deep Learning', 'MLflow']","Bac+5 en Data Science, Intelligence Artificielle ou Mathématiques",0,"['Explorer et analyser des jeux de données complexes', 'Développer des modèles de Machine Learning pour résoudre des problèmes métiers', ""Évaluer les performances des modèles à l'aide de métriques adaptées"", 'Documenter les expérimentations et présenter les résultats']","['Python', 'Scikit-learn', 'Jupyter', 'MLflow']","Data Scientist Junior – Modélisation prédictive
+
+Nous recherchons un profil spécialisé en Data Scientist pour rejoindre notre équipe.
+
+Missions principales :
+- Explorer et analyser des jeux de données complexes
+- Développer des modèles de Machine Learning pour résoudre des problèmes métiers
+- Évaluer les performances des modèles à l'aide de métriques adaptées
+- Documenter les expérimentations et présenter les résultats
+
+Compétences requises : Python, Scikit-learn, Pandas, Machine Learning, NumPy
+Compétences appréciées : TensorFlow, Deep Learning, MLflow
+Environnement technique : Python, Scikit-learn, Jupyter, MLflow"
+OFF004,Data Scientist,Data Scientist – Intelligence artificielle,"[""Python"", ""TensorFlow"", ""Deep Learning"", ""Machine Learning"", ""NLP""]","['PyTorch', 'Transformers', 'Hugging Face']",Bac+5 en Intelligence Artificielle ou Data Science,1,"['Concevoir et entraîner des modèles de Deep Learning', 'Développer des solutions de traitement automatique du langage', ""Préparer les données nécessaires à l'entraînement des modèles"", 'Optimiser les modèles et analyser leurs résultats']","['Python', 'TensorFlow', 'PyTorch', 'Hugging Face']","Data Scientist – Intelligence artificielle
+
+Nous recherchons un profil spécialisé en Data Scientist pour rejoindre notre équipe.
+
+Missions principales :
+- Concevoir et entraîner des modèles de Deep Learning
+- Développer des solutions de traitement automatique du langage
+- Préparer les données nécessaires à l'entraînement des modèles
+- Optimiser les modèles et analyser leurs résultats
+
+Compétences requises : Python, TensorFlow, Deep Learning, Machine Learning, NLP
+Compétences appréciées : PyTorch, Transformers, Hugging Face
+Environnement technique : Python, TensorFlow, PyTorch, Hugging Face"
+OFF005,Data Engineer,Data Engineer Junior – Pipelines de données,"[""Python"", ""SQL"", ""Apache Spark"", ""ETL"", ""PostgreSQL""]","['Airflow', 'Docker', 'Git']","Bac+5 en Informatique, Data Engineering ou Big Data",0,"[""Développer des pipelines d'intégration et de transformation des données"", 'Collecter des données depuis différentes sources', 'Assurer la qualité et la fiabilité des flux de données', 'Participer à la maintenance des infrastructures de traitement']","['Python', 'Apache Spark', 'SQL', 'Airflow', 'Docker']","Data Engineer Junior – Pipelines de données
+
+Nous recherchons un profil spécialisé en Data Engineer pour rejoindre notre équipe.
+
+Missions principales :
+- Développer des pipelines d'intégration et de transformation des données
+- Collecter des données depuis différentes sources
+- Assurer la qualité et la fiabilité des flux de données
+- Participer à la maintenance des infrastructures de traitement
+
+Compétences requises : Python, SQL, Apache Spark, ETL, PostgreSQL
+Compétences appréciées : Airflow, Docker, Git
+Environnement technique : Python, Apache Spark, SQL, Airflow, Docker"
+OFF006,Data Engineer,Data Engineer – Architecture Big Data,"[""Python"", ""Apache Spark"", ""SQL"", ""Hadoop"", ""Data Warehousing""]","['Kafka', 'Databricks', 'Cloud']","Bac+5 en Big Data, Informatique ou Systèmes distribués",2,"['Concevoir des architectures de traitement de données massives', 'Développer des traitements distribués avec Spark', 'Optimiser les performances des pipelines Big Data', ""Contribuer à la mise en place de solutions de stockage et d'analyse""]","['Apache Spark', 'Hadoop', 'Python', 'SQL', 'Databricks']","Data Engineer – Architecture Big Data
+
+Nous recherchons un profil spécialisé en Data Engineer pour rejoindre notre équipe.
+
+Missions principales :
+- Concevoir des architectures de traitement de données massives
+- Développer des traitements distribués avec Spark
+- Optimiser les performances des pipelines Big Data
+- Contribuer à la mise en place de solutions de stockage et d'analyse
+
+Compétences requises : Python, Apache Spark, SQL, Hadoop, Data Warehousing
+Compétences appréciées : Kafka, Databricks, Cloud
+Environnement technique : Apache Spark, Hadoop, Python, SQL, Databricks"
+OFF007,Développeur Web,Développeur Full Stack Junior,"[""JavaScript"", ""React"", ""Node.js"", ""HTML"", ""CSS""]","['MongoDB', 'Git', 'REST API']",Bac+5 en Informatique ou Développement logiciel,0,"['Développer des interfaces web responsives et interactives', 'Créer et intégrer des API pour communiquer avec le backend', 'Participer à la conception de nouvelles fonctionnalités', 'Corriger les anomalies et améliorer la qualité du code']","['React', 'Node.js', 'JavaScript', 'HTML', 'CSS']","Développeur Full Stack Junior
+
+Nous recherchons un profil spécialisé en Développeur Web pour rejoindre notre équipe.
+
+Missions principales :
+- Développer des interfaces web responsives et interactives
+- Créer et intégrer des API pour communiquer avec le backend
+- Participer à la conception de nouvelles fonctionnalités
+- Corriger les anomalies et améliorer la qualité du code
+
+Compétences requises : JavaScript, React, Node.js, HTML, CSS
+Compétences appréciées : MongoDB, Git, REST API
+Environnement technique : React, Node.js, JavaScript, HTML, CSS"
+OFF008,Développeur Web,Développeur Backend – Applications web,"[""Python"", ""Django"", ""SQL"", ""REST API"", ""PostgreSQL""]","['Docker', 'Git', 'Linux']",Bac+5 en Génie Logiciel ou Informatique,1,"['Développer et maintenir des services backend', 'Concevoir des API REST sécurisées et performantes', 'Gérer les interactions avec les bases de données', 'Participer aux tests et au déploiement des applications']","['Python', 'Django', 'PostgreSQL', 'Docker', 'Git']","Développeur Backend – Applications web
+
+Nous recherchons un profil spécialisé en Développeur Web pour rejoindre notre équipe.
+
+Missions principales :
+- Développer et maintenir des services backend
+- Concevoir des API REST sécurisées et performantes
+- Gérer les interactions avec les bases de données
+- Participer aux tests et au déploiement des applications
+
+Compétences requises : Python, Django, SQL, REST API, PostgreSQL
+Compétences appréciées : Docker, Git, Linux
+Environnement technique : Python, Django, PostgreSQL, Docker, Git"
+OFF009,BI Analyst,Business Intelligence Analyst Junior,"[""Power BI"", ""SQL"", ""DAX"", ""Excel"", ""Data Visualization""]","['Power Query', 'ETL', 'Talend']","Bac+5 en Business Intelligence, Data ou Informatique",0,"[""Concevoir des tableaux de bord pour le pilotage de l'activité"", 'Transformer les données en indicateurs de performance', 'Développer des modèles de données et des mesures DAX', ""Accompagner les utilisateurs dans l'exploitation des rapports""]","['Power BI', 'DAX', 'Power Query', 'SQL', 'Excel']","Business Intelligence Analyst Junior
+
+Nous recherchons un profil spécialisé en BI Analyst pour rejoindre notre équipe.
+
+Missions principales :
+- Concevoir des tableaux de bord pour le pilotage de l'activité
+- Transformer les données en indicateurs de performance
+- Développer des modèles de données et des mesures DAX
+- Accompagner les utilisateurs dans l'exploitation des rapports
+
+Compétences requises : Power BI, SQL, DAX, Excel, Data Visualization
+Compétences appréciées : Power Query, ETL, Talend
+Environnement technique : Power BI, DAX, Power Query, SQL, Excel"
+OFF010,BI Analyst,BI Analyst – Reporting et pilotage,"[""Power BI"", ""SQL"", ""ETL"", ""Data Warehousing"", ""Excel""]","['Talend', 'Oracle', 'DAX']",Bac+5 en Informatique décisionnelle ou Systèmes d'information,2,"[""Participer à l'évolution du système décisionnel de l'entreprise"", 'Extraire et consolider les données issues des systèmes opérationnels', 'Automatiser la production des rapports périodiques', 'Garantir la fiabilité des indicateurs communiqués aux directions']","['Power BI', 'SQL', 'Talend', 'Oracle', 'Excel']","BI Analyst – Reporting et pilotage
+
+Nous recherchons un profil spécialisé en BI Analyst pour rejoindre notre équipe.
+
+Missions principales :
+- Participer à l'évolution du système décisionnel de l'entreprise
+- Extraire et consolider les données issues des systèmes opérationnels
+- Automatiser la production des rapports périodiques
+- Garantir la fiabilité des indicateurs communiqués aux directions
+
+Compétences requises : Power BI, SQL, ETL, Data Warehousing, Excel
+Compétences appréciées : Talend, Oracle, DAX
+Environnement technique : Power BI, SQL, Talend, Oracle, Excel"
